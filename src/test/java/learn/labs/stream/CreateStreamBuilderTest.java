@@ -2,7 +2,6 @@ package learn.labs.stream;
 
 import org.junit.jupiter.api.Test;
 
-import java.util.Objects;
 import java.util.stream.Stream;
 
 public class CreateStreamBuilderTest {
